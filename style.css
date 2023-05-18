@@ -1,0 +1,42 @@
+@charset "UTF-8"; 
+
+body {
+  background-color: seagreen;
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: wheat;
+  border: 2px solid seashell;
+  padding: 20px;
+}
+ 
+header   {
+  padding: 40px;
+  height: 80px;
+}
+ 
+nav {
+  padding: 8px 40px;
+  background-color: seashell;
+  color: seagreen;
+  border-radius: 10px;
+}
+ 
+main{
+  padding: 40px;
+  height : 400px;
+}
+ 
+footer   {
+  padding: 40px;
+  height: 40px;
+  background-color : seashell;
+  color: seagreen;
+}
+
+.circle img {
+  border-radius: 50%;
+  width: 300px;
+}
